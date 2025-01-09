@@ -29,6 +29,18 @@
         "Development : ECRA - European Connected Regional Airport application used for tracing and monitoring all timings linked to aircrafts/flights especially for control towers. This critical application has been first implemented for 14 regional airports in Greece, and was moved to Azure Cloud to consider future deployment for 200 main airports across Europe including Frankfurt, Paris Charles de Gaulle...",
         "Development : EMIS_RG - Environment Management Information Service - Report generation about European Flights Gas Emissions, kerozen consumption...  The full app has been created based on an old existing java module, split, rebranded and refactored to use the latest technologies and good practices"
       ]
+    },
+    {
+      "company": "General Electric",
+      "position": "Co-Founder",
+      "website": "https://ge.com",
+      "startDate": "1892-01-01",
+      "endDate": "1931-10-18",
+      "summary": "Co-founded General Electric, one of the largest and most diversified industrial corporations in the world.",
+      "highlights": [
+        "Played a key role in the development of electrical power and lighting systems.",
+        "Contributed to the advancement of numerous technological innovations."
+      ]
     }
   ],
   "education": [
@@ -168,5 +180,4 @@
         ]
     }
   ]  
-}
-}
+}}
