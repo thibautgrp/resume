@@ -19,7 +19,8 @@
   },
   "work": [
     {
-      "name": "DataServices@Eurocontrol - Luxembourg/Brussels",
+      "name": "DataServices@Eurocontrol",
+      "location": "Luxembourg/Brussels",
       "position": "Senior Fullstack Developer",
       "startDate": "2022-01-01",
       "endDate": "2024-12-31",
@@ -33,7 +34,8 @@
       ]
     },
     {
-      "name": "Sciensano, Luxembourg/Brussels",
+      "name": "Sciensano",
+      "location": "Luxembourg/Brussels",
       "position": "Senior Fullstack Developer",
       "startDate": "2020-12-01",
       "endDate": "2021-12-31",
@@ -46,7 +48,8 @@
       ]
     },
     {
-      "name": "Techcom @ SES Satellites, Luxembourg",
+      "name": "Techcom @ SES Satellites",
+      "location": "Luxembourg",
       "position": "Senior Fullstack Developer",
       "startDate": "2020-04-01",
       "endDate": "2021-09-31",
@@ -59,7 +62,8 @@
       ]
     },
     {
-      "name": "Techcom @ SES Satellites, Luxembourg",
+      "name": "Techcom @ SES Satellites",
+      "location": "Luxembourg",
       "position": "Senior Fullstack Developer",
       "startDate": "2020-04-01",
       "endDate": "2021-09-31",
