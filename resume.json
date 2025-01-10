@@ -101,6 +101,34 @@
         "<b>Workforce</b>: 3 in architecture team among 20 developers",
         "<b>Technical environment</b>: Angular JS / 2, Ionic, Vaadin 6/7, Java/ J2EE 1.6-8, Gulp, PhoneGap, SASS, CSS, HTML5, N-tiers (Client Front, Back-end), SOA, REST HATEOAS, SOAP, Intellij Idea, JRebel, Spring Boot, GRPC, Protocol buffer, Swagger, JWT, OSB, Apache Caml, Teamcity, WebLogic, Jboss"
       ]
+    },
+    {
+      "name": "Banque Internationale à Luxembourg (BIL)",
+      "location": "Luxemburg",
+      "position": "Fullstack Developer - Amaris Consultant",
+      "startDate": "2013-10-01",
+      "endDate": "2014-02-31",
+      "summary": "Banque Internartionale à Luxembourg is the oldest private bank in Luxembourg.",
+      "highlights": [
+        "<b>Missions</b>: <ul><li>Card Recovering module implementation on BIL professional portal (BLSNet)</li></ul>",
+        "<b>Roles</b>: <ul><li>Fullstack analyst</li><li>Developer</li></ul>",
+        "<b>Workforce</b>: 9",
+        "<b>Technical environment</b>: Flex, Java/J2EE 6, AJAX, HTML, JQUERY, HTML, CXF, N-tiers (Client Front, DB, Back-end"
+      ]
+    },
+    {
+      "name": "Lombard International Insurance",
+      "location": "Luxemburg",
+      "position": "Fullstack Developer - Amaris Consultant",
+      "startDate": "2013-01-01",
+      "endDate": "2013-09-31",
+      "summary": "Lombard International Assurance is an insurance carrier specialising in designing cross-border wealth, estate, and succession planning solutions.",
+      "highlights": [
+        "<b>Missions</b>: Development <ul><li>Form Builder : eForms aimed to subscribe to new life insurance policies</li><li>Policy simulations development for customers</li></ul>",
+        "<b>Roles</b>: <ul><li>Developer</li><li>Technical Analyst</li><li>Release manager</li></ul>",
+        "<b>Workforce</b>: 5-7",
+        "<b>Technical environment</b>: Flex 3.5, Java/J2EE 6, N-tiers (Client, Front, Orchestrator, DB, ESB Scriptura Engage),Java RMI, Dozer Mapping, SOA, REST, ESB, FlashBuilder,\nEclipse Husdon, Anthill"
+      ]
     }
   ],
   "education": [
