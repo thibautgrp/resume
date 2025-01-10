@@ -2,7 +2,6 @@
   "meta": {
     "theme": "elegant"
   },
-  {
   "basics": {
     "name": "Thibaut Grappin",
     "label": "Senior full stack developer",
@@ -11,9 +10,9 @@
     "phone": "(+352) 661447682",
     "website": "https://registry.jsonresume.org/thibautgrp",
     "summary": "Senior full stack developer working mainly with Java / Angular technologies. Thanks to 16 years of experience, I had the opportunity to take on several different roles such as Web Architect, Tech/Team Leader, Release Manager...",
-    "location": {      
+    "location": {
       "city": "Hondelange",
-      "countryCode": "BE"      
+      "countryCode": "BE"
     },
     "profiles": [
     ]
@@ -21,7 +20,7 @@
   "work": [
     {
       "company": "DataServices@Eurocontrol - Luxembourg/Brussels",
-      "position": "Senior Fullstack Developer",      
+      "position": "Senior Fullstack Developer",
       "startDate": "2022-01-01",
       "endDate": "2024-12-31",
       "summary": "The European Organisation for the Safety of Air Navigation (Eurocontrol), is an international organisation working to achieve safe and seamless air traffic management across Europe.",
@@ -37,33 +36,31 @@
       "area": "Multimedia and IT (70% to 80%)",
       "studyType": "Computer Science Engineer",
       "startDate": "2003-09-01",
-      "endDate": "2008-09-01"      
+      "endDate": "2008-09-01"
     },
     {
-      "institution": "Training",      
+      "institution": "Training",
       "area": "Tibco boot camp",
       "studyType": "Rotterdam",
       "startDate": "2009-09-01",
-      "endDate": "2009-09-01"      
+      "endDate": "2009-09-01"
     },
     {
-      "institution": "Training",    
+      "institution": "Training",
       "area": "Responsive Desing",
-      "studyType": "Luxembourg",  
+      "studyType": "Luxembourg",
       "startDate": "2016-06-01",
-      "endDate": "2016-06-01"      
+      "endDate": "2016-06-01"
     },
     {
-      "institution": "Training",  
+      "institution": "Training",
       "area": "Java 8",
-      "studyType": "Luxembourg",      
+      "studyType": "Luxembourg",
       "startDate": "2018-03",
-      "endDate": "2018-03"      
+      "endDate": "2018-03"
     }
   ],
-  
-  
-  "skills": [    
+  "skills": [
     {
       "name": "Languages",
       "level": "",
@@ -94,18 +91,18 @@
         "PostgreSQL",
         "MySQL",
         "Liquibase",
-        "Flyway"      
+        "Flyway"
       ]
-    },    
+    },
     {
       "name": "Versionning",
       "level": "",
       "keywords": [
         "Git",
         "SVN",
-        "Mercurial"   
+        "Mercurial"
       ]
-    },    
+    },
     {
       "name": "CI/CD",
       "level": "",
@@ -130,7 +127,7 @@
       "keywords": [
         "Jira",
         "Confluence",
-        "Github"   
+        "Github"
       ]
     }
   ],
@@ -159,13 +156,15 @@
     },
     {
       "name": "Boardgames",
-        "keywords": ["Passion for single/multi players heavy boardgames"
-        ]
+      "keywords": [
+        "Passion for single/multi players heavy boardgames"
+      ]
     },
     {
       "name": "Wood working",
-        "keywords": ["Passion for making/creating wood pieces like furnitures, arrangement..."
-        ]
+      "keywords": [
+        "Passion for making/creating wood pieces like furnitures, arrangement..."
+      ]
     }
-  ]  
-}}
+  ]
+}
