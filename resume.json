@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "kendall"
   },
   "basics": {
     "name": "Thibaut Grappin",
@@ -19,7 +19,7 @@
   },
   "work": [
     {
-      "company": "DataServices@Eurocontrol - Luxembourg/Brussels",
+      "name": "DataServices@Eurocontrol - Luxembourg/Brussels",
       "position": "Senior Fullstack Developer",
       "startDate": "2022-01-01",
       "endDate": "2024-12-31",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "company": "Sciensano, Luxembourg/Brussels",
+      "name": "Sciensano, Luxembourg/Brussels",
       "position": "Senior Fullstack Developer",
       "startDate": "2020-12-01",
       "endDate": "2021-12-31",
@@ -46,7 +46,20 @@
       ]
     },
     {
-      "company": "Techcom @ SES Satellites, Luxembourg",
+      "name": "Techcom @ SES Satellites, Luxembourg",
+      "position": "Senior Fullstack Developer",
+      "startDate": "2020-04-01",
+      "endDate": "2021-09-31",
+      "summary": "SES is a satellite telecommunications network provider supplying video and data connectivity worldwide to broadcasters, content and internet service providers, mobile and fixed network operators, governments and institutions.",
+      "highlights": [
+        "Development on Medical Data Collection applications. \nThe aim of these multi-module applications is to collect data (tests, statistics, etc.) from Belgian hospitals and make them available to the government for future analyzes or declarations. The project was very critical because it was carried out in the middle of the covid period.",
+        "Roles: \nTester - main task - writing of the all bunch of unit tests\nFullstack Developer",
+        "Workforce : 17",
+        "Technical environment: Java 11, Spring Boot, Spring, AngularJs, Mockito, Junit, Angular 8 Mercurial, Rest, NGINX, SNMP, Postgresql, InfluxDB, Tomcat 8, Wildfly, Jenkins 2, Ansible, Linux"
+      ]
+    },
+    {
+      "name": "Techcom @ SES Satellites, Luxembourg",
       "position": "Senior Fullstack Developer",
       "startDate": "2020-04-01",
       "endDate": "2021-09-31",
