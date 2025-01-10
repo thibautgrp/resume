@@ -26,9 +26,8 @@
       "endDate": "2024-12-31",
       "summary": "The European Organisation for the Safety of Air Navigation (Eurocontrol), is an international organisation working to achieve safe and seamless air traffic management across Europe.",
       "highlights": [
-        "Development : ECRA - European Connected Regional Airport application used for tracing and monitoring all timings linked to aircrafts/flights especially for control towers. This critical application has been first implemented for 14 regional airports in Greece, and was moved to Azure Cloud to consider future deployment for 200 main airports across Europe including Frankfurt, Paris Charles de Gaulle...",
-        "Development : EMIS_RG - Environment Management Information Service - Report generation about European Flights Gas Emissions, kerozen consumption...  The full app has been created based on an old existing java module, split, rebranded and refactored to use the latest technologies and good practices",
-        "Role: Fullstask developer",
+        "<b>Development</b> : <li><ul>ECRA - European Connected Regional Airport application used for tracing and monitoring all timings linked to aircrafts/flights especially for control towers. This critical application has been first implemented for 14 regional airports in Greece, and was moved to Azure Cloud to consider future deployment for 200 main airports across Europe including Frankfurt, Paris Charles de Gaulle...</ul><ul> EMIS_RG - Environment Management Information Service - Report generation about European Flights Gas Emissions, kerozen consumption...  The full app has been created based on an old existing java module, split, rebranded and refactored to use the latest technologies and good practices</ul></li>",
+        "Role: Fullstack developer",
         "Workforce : 11",
         "Technical environment: Java 17+, Angular 16+, PrimeNg, Spring / Springboot2+, Oracle DB, Azure Cloud, Log4J, Lombok, Apache POI, Apache Tomcat, Liquibase,\nHibernate, Kafka, Maven, Jenkins, SVN, Git, Intellij, Jira"
       ]
@@ -58,7 +57,7 @@
         "Development on Medical Data Collection applications. <br/>The aim of these multi-module applications is to collect data (tests, statistics, etc.) from Belgian hospitals and make them available to the government for future analyzes or declarations. The project was very critical because it was carried out in the middle of the covid period.",
         "Roles: <br/>Tester - main task - writing of the all bunch of unit tests<br/>Fullstack Developer",
         "Workforce : 17",
-        "<b>Technical environment</b>: Java 11, Spring Boot, Spring, AngularJs, Mockito, Junit, Angular 8 Mercurial, Rest, NGINX, SNMP, Postgresql, InfluxDB, Tomcat 8, Wildfly, Jenkins 2, Ansible, Linux"
+        "<b>Technical environment</b>: Java 11, Spring Boot, Spring, Angular Js/8, Mockito, Junit, Mercurial, Rest, NGINX, SNMP, Postgresql, InfluxDB, Tomcat 8, Wildfly, Jenkins 2, Ansible, Linux"
       ]
     },
     {
@@ -72,7 +71,7 @@
         "Development on Medical Data Collection applications. \nThe aim of these multi-module applications is to collect data (tests, statistics, etc.) from Belgian hospitals and make them available to the government for future analyzes or declarations. The project was very critical because it was carried out in the middle of the covid period.",
         "Roles: \nTester - main task - writing of the all bunch of unit tests\nFullstack Developer",
         "Workforce : 17",
-        "Technical environment: Java 11, Spring Boot, Spring, AngularJs, Mockito, Junit, Angular 8 Mercurial, Rest, NGINX, SNMP, Postgresql, InfluxDB, Tomcat 8, Wildfly, Jenkins 2, Ansible, Linux"
+        "Technical environment: Java 11, Spring Boot, Spring, AngularJs/Angular 8, Mockito, Junit, Mercurial, Rest, NGINX, SNMP, Postgresql, InfluxDB, Tomcat 8, Wildfly, Jenkins 2, Ansible, Linux"
       ]
     }
   ],
