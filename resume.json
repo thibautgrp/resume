@@ -129,6 +129,20 @@
         "<b>Workforce</b>: 5-7",
         "<b>Technical environment</b>: Flex 3.5, Java/J2EE 6, N-tiers (Client, Front, Orchestrator, DB, ESB Scriptura Engage),Java RMI, Dozer Mapping, SOA, REST, ESB, FlashBuilder,\nEclipse Husdon, Anthill"
       ]
+    },
+    {
+      "name": "BSB",
+      "location": "Luxemburg",
+      "position": "Lead Front Developer",
+      "startDate": "2010-10-01",
+      "endDate": "2013-01-31",
+      "summary": "BSB is a software company. The two main softwares are Esolife and Soliam (Insurance / Banking). A custom team was raised within the company to build tailor made solutions based on Esolife/Soliam for customers.",
+      "highlights": [
+        "<b>Missions</b>: Development <ul><li>FMigration of the Esolife BSB software to the Vaadin technology.Esolife is the web version of the Solife software edited by BSB. Esolife targets partners, customers and internal users integrated to Solife by default but allows also the integration to other third parties / back ends. Solife is a life insurance software.</li><li>Development of the private portals (retail platform) for an Adviser and his Clients, allowing them to manage assets</li><li>Development of the private portals for the Employer and the Employee of a company, allowing them to manage the corporate savings</li></ul>",
+        "<b>Roles</b>: <ul><li>Developer</li><li>Technical Analyst</li><li>Front Architect</li><li>Technical coach / Junior developers supervisor</li><li>Release manager</li></ul>",
+        "<b>Workforce</b>: 5-7",
+        "<b>Technical environment</b>: Flex 3.5, Java/J2EE 6, N-tiers (Client, Front, Orchestrator, DB, ESB Scriptura Engage),Java RMI, Dozer Mapping, SOA, REST, ESB, FlashBuilder,\nEclipse Husdon, Anthill"
+      ]
     }
   ],
   "education": [
