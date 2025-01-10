@@ -39,8 +39,8 @@
       "endDate": "2021-12-31",
       "summary": "Sciensano is a research institute and the national public health institute of Belgium.",
       "highlights": [
-        "Development on Medical Data Collection applications. \\nThe aim of these multi-module applications is to collect data (tests, statistics, etc.) from Belgian hospitals and make them available to the government for future analyzes or declarations. The project was very critical because it was carried out in the middle of the covid period.",
-        "Roles: \\nFullstack developer\\nLeadership on each module",
+        "Development on Medical Data Collection applications. \nThe aim of these multi-module applications is to collect data (tests, statistics, etc.) from Belgian hospitals and make them available to the government for future analyzes or declarations. The project was very critical because it was carried out in the middle of the covid period.",
+        "Roles: \nFullstack developer\nLeadership on each module",
         "Workforce : 19",
         "Technical environment: Java 11, Angular 9, Springboot, Formio, Kendo UI, MongoDB, PostgreSql, Maven, Docker, Wildfly, Jenkins, Github, Zenhub, VSCode, Citrix, Linux"
       ]
@@ -52,8 +52,8 @@
       "endDate": "2021-09-31",
       "summary": "SES is a satellite telecommunications network provider supplying video and data connectivity worldwide to broadcasters, content and internet service providers, mobile and fixed network operators, governments and institutions.",
       "highlights": [
-        "Development on Medical Data Collection applications. \\nThe aim of these multi-module applications is to collect data (tests, statistics, etc.) from Belgian hospitals and make them available to the government for future analyzes or declarations. The project was very critical because it was carried out in the middle of the covid period.",
-        "Roles: \\nTester - main task - writing of the all bunch of unit tests\\nFullstack Developer",
+        "Development on Medical Data Collection applications. \nThe aim of these multi-module applications is to collect data (tests, statistics, etc.) from Belgian hospitals and make them available to the government for future analyzes or declarations. The project was very critical because it was carried out in the middle of the covid period.",
+        "Roles: \nTester - main task - writing of the all bunch of unit tests\nFullstack Developer",
         "Workforce : 17",
         "Technical environment: Java 11, Spring Boot, Spring, AngularJs, Mockito, Junit, Angular 8 Mercurial, Rest, NGINX, SNMP, Postgresql, InfluxDB, Tomcat 8, Wildfly, Jenkins 2, Ansible, Linux"
       ]
